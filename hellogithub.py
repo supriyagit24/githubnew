@@ -1,2 +1,2 @@
 
-print("Hello, GitHub ,Fisrt time I am using GitHub!")
+print("Hello, GitHub , I am using GitHub!")
